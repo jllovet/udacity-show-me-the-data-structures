@@ -1,4 +1,4 @@
-# Least Recently Used Cache
+# Problem 1: Least Recently Used Cache
 The following is the prompt for the problem from Udacity.
 
 ## Prompt
